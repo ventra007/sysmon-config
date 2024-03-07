@@ -563,7 +563,7 @@
 			<TargetFilename condition="begin with">C:\SYSPRO7Client\</TargetFilename>
 			<!--SECTION: 3rd Party Applications-->
 			<TargetFilename condition="begin with">C:\Program Files (x86)\WatermarkTech\</TargetFilename>
-			
+			<TargetFilename condition="begin with">C:\Program Files (x86)\Online Backup and Recovery Manager\</TargetFilename>
 		</FileCreate>
 	</RuleGroup>
 
