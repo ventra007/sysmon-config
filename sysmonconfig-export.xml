@@ -561,6 +561,8 @@
 			<Image condition="begin with">C:\Windows\winsxs\amd64_microsoft-windows</Image> <!-- Windows: Windows update-->
 			<!--SECTION: Syspro-->
 			<TargetFilename condition="begin with">C:\SYSPRO7Client\</TargetFilename>
+			<!--SECTION: 3rd Party Applications-->
+			<TargetFilename condition="begin with">C:\Program Files (x86)\WatermarkTech\</TargetFilename>
 			
 		</FileCreate>
 	</RuleGroup>
